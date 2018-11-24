@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{48337A20-01FF-4DCF-A6BA-F19FED7B9908}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParallelLabs/Task7.cs">
+    <Files>
+      <File FileName="ParallelLabs/Program.cs" Line="8" Column="10" />
+      <File FileName="ParallelLabs/Task1.cs" Line="1" Column="1" />
+      <File FileName="ParallelLabs/Task2.cs" Line="1" Column="1" />
+      <File FileName="ParallelLabs/Task3.cs" Line="1" Column="1" />
+      <File FileName="ParallelLabs/Task5.cs" Line="1" Column="1" />
+      <File FileName="ParallelLabs/Task6.cs" Line="28" Column="10" />
+      <File FileName="ParallelLabs/IRun.cs" Line="1" Column="1" />
+      <File FileName="ParallelLabs/Task7.cs" Line="10" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ParallelLabs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

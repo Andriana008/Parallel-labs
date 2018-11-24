@@ -1,0 +1,11 @@
+/Users/Andriana/Desktop/LNUC#/ParalCompute/ParallelLabs/ParallelLabs/bin/Debug/ParallelLabs.exe
+/Users/Andriana/Desktop/LNUC#/ParalCompute/ParallelLabs/ParallelLabs/bin/Debug/ParallelLabs.pdb
+/Users/Andriana/Desktop/LNUC#/ParalCompute/ParallelLabs/ParallelLabs/obj/x86/Debug/ParallelLabs.csproj.CoreCompileInputs.cache
+/Users/Andriana/Desktop/LNUC#/ParalCompute/ParallelLabs/ParallelLabs/obj/x86/Debug/ParallelLabs.exe
+/Users/Andriana/Desktop/LNUC#/ParalCompute/ParallelLabs/ParallelLabs/obj/x86/Debug/ParallelLabs.pdb
+C:\Users\Andriana008\Desktop\PLabs\ParallelLabs\ParallelLabs\bin\Debug\ParallelLabs.exe
+C:\Users\Andriana008\Desktop\PLabs\ParallelLabs\ParallelLabs\bin\Debug\ParallelLabs.pdb
+C:\Users\Andriana008\Desktop\PLabs\ParallelLabs\ParallelLabs\obj\x86\Debug\ParallelLabs.csprojAssemblyReference.cache
+C:\Users\Andriana008\Desktop\PLabs\ParallelLabs\ParallelLabs\obj\x86\Debug\ParallelLabs.csproj.CoreCompileInputs.cache
+C:\Users\Andriana008\Desktop\PLabs\ParallelLabs\ParallelLabs\obj\x86\Debug\ParallelLabs.exe
+C:\Users\Andriana008\Desktop\PLabs\ParallelLabs\ParallelLabs\obj\x86\Debug\ParallelLabs.pdb
